@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.328ab46b.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.d4360c40.css",
+    "main.js": "/static/js/main.25d9b2dd.js",
+    "static/media/bewakoof.png": "/static/media/bewakoof.6bcbc51133ecf7b44116.png",
+    "static/media/sephora.png": "/static/media/sephora.60acc51a62809a918182.png",
+    "static/media/mailchimp.png": "/static/media/mailchimp.0c3306b8abcdad1a5547.png",
+    "static/media/topics-board.png": "/static/media/topics-board.409d943cb7a214ef9133.png",
+    "static/media/Picture1.jpg": "/static/media/Picture1.29e6144eecb2a2632ed6.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.328ab46b.js.map": "/static/js/main.328ab46b.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.d4360c40.css.map": "/static/css/main.d4360c40.css.map",
+    "main.25d9b2dd.js.map": "/static/js/main.25d9b2dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.328ab46b.js"
+    "static/css/main.d4360c40.css",
+    "static/js/main.25d9b2dd.js"
   ]
 }
