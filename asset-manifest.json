@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4360c40.css",
-    "main.js": "/static/js/main.25d9b2dd.js",
+    "main.css": "/static/css/main.6479734b.css",
+    "main.js": "/static/js/main.7f89efd8.js",
+    "static/media/yoox.png": "/static/media/yoox.bc32fccc9c11bb5eeee3.png",
     "static/media/bewakoof.png": "/static/media/bewakoof.6bcbc51133ecf7b44116.png",
+    "static/media/Shoaib_Sherani_Resume.pdf": "/static/media/Shoaib_Sherani_Resume.5721d4208da50034eedc.pdf",
     "static/media/sephora.png": "/static/media/sephora.60acc51a62809a918182.png",
     "static/media/mailchimp.png": "/static/media/mailchimp.0c3306b8abcdad1a5547.png",
     "static/media/topics-board.png": "/static/media/topics-board.409d943cb7a214ef9133.png",
     "static/media/Picture1.jpg": "/static/media/Picture1.29e6144eecb2a2632ed6.jpg",
     "index.html": "/index.html",
-    "main.d4360c40.css.map": "/static/css/main.d4360c40.css.map",
-    "main.25d9b2dd.js.map": "/static/js/main.25d9b2dd.js.map"
+    "main.6479734b.css.map": "/static/css/main.6479734b.css.map",
+    "main.7f89efd8.js.map": "/static/js/main.7f89efd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4360c40.css",
-    "static/js/main.25d9b2dd.js"
+    "static/css/main.6479734b.css",
+    "static/js/main.7f89efd8.js"
   ]
 }
